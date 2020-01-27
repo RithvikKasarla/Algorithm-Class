@@ -17,6 +17,6 @@
         - If you want the program to use the least amount of space in memory
 
 ## Determining the Theoretical Best Algorithm
-- Theoretical = Scales the best with the largest input size
+- Theoretical Best = Scales the best with the largest input size
     - May not be practical as the theoretical best may only be good for input sizes that are not seen in a practical use
 
