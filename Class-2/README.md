@@ -26,6 +26,6 @@
 - They do not corrolate to best case/ worst case
     - All of them can be used to determine run time analysis on the best case and worst case
 
-### Recursion
+## Recursion
 - When a function calls itself over again
 - Can be achived by looping and vise versa
